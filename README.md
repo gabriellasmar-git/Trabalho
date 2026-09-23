@@ -1,7 +1,7 @@
 # Sistema de Atendimento e Pedidos
 
 ## Aluno
-Gabriel
+Gabriel Lasmar Rosario
 
 ## Disciplina
 Algoritmos e Programação
