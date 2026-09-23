@@ -22,7 +22,7 @@ solicita a forma de pagamento e apresenta um resumo da compra.
 - Seleção de produtos
 - Escolha de quantidade
 - Cálculo de subtotal
-- Acúmulo do valor total
+- Cálculo valor total
 - Validação de opções
 - Desconto de 0%, 5% ou 10%
 - Forma de pagamento
