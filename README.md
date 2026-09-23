@@ -31,7 +31,9 @@ solicita a forma de pagamento e apresenta um resumo da compra.
 ## Como executar
 
 1. Tenha o Python instalado.
-2. Baixe o arquivo `lanchonete.py`.
-3. Execute no terminal:
+2. Baixe ou clone este repositório.
+3. Acesse a pasta `Arquivo do Trabalho`.
+4. Execute no terminal:
 
+```bash
 python lanchonete.py
